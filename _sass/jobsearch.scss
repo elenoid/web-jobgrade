@@ -1,0 +1,33 @@
+.logo{
+  margin-bottom: 5rem;
+}
+
+.callout.primary{
+  height: 5rem;
+  background-color: #444;
+  color: white;
+  p{
+    display: none;
+  }
+}
+.callout.primary:hover{
+  height: 10rem;
+  background-color: #49b649;
+  p{
+    display: block;
+    padding: 3rem 0rem;
+  }
+  h3{
+    display: none;
+  }
+}
+.off-canvas{
+  background: #fac999;
+}
+
+.inserat{
+  background: #fff;
+  border: 1px solid;
+  padding: 1rem;
+  margin-bottom: 3rem;
+}

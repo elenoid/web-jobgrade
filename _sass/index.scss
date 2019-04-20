@@ -1,0 +1,65 @@
+.intro-grid{
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.top-bar, .top-bar ul{
+  background-color: black;
+}
+.menu-text p{
+  color: white;
+  margin: 0;
+}
+
+.logo{
+  padding: 2rem;
+  display: flex;
+}
+
+h3{
+  /* color: #ef7e30; */
+  font-weight: 600;
+}
+
+h6{
+  font-style: italic;
+  margin: 0;
+  margin-top: 1rem;
+}
+
+.logo-cell{
+  justify-content: center;
+  display: flex;
+}
+
+.login-title{
+  font-style: italic;
+  margin: 0;
+  margin-top: 2rem;
+  margin-bottom: .3rem;
+}
+
+.login-title.title1{
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+.button.login{
+  background-color: #ef7e30;
+}
+
+.social{
+  margin-top: 2rem;
+  .cell{
+    justify-content: center;
+    display: flex;
+    height: 2rem;
+    img{
+      height: 100%;
+    }
+  }
+}
+
+.grundsatz-cell{
+  padding: 1rem 2rem;
+}
